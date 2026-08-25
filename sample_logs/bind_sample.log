@@ -1,0 +1,7 @@
+18-Aug-2026 09:00:01.123 queries: info: client @0x7f8a2c0b1200 192.168.1.10#54321 (google.com): query: google.com IN A + (10.0.0.53)
+18-Aug-2026 09:00:05.456 queries: info: client @0x7f8a2c0b1300 192.168.1.11#51122 (github.com): query: github.com IN AAAA + (10.0.0.53)
+18-Aug-2026 09:00:12.789 queries: info: client @0x7f8a2c0b1400 192.168.1.22#60111 (a1b2c3d4e5f6g7h8.assets.cdn-edge-sync.net): query: a1b2c3d4e5f6g7h8.assets.cdn-edge-sync.net IN NULL + (10.0.0.53)
+18-Aug-2026 09:00:15.001 queries: info: client @0x7f8a2c0b1500 192.168.1.30#33221 (kx93mdla02.top): query: kx93mdla02.top IN A + (10.0.0.53)
+18-Aug-2026 09:00:15.210 query-errors: info: client @0x7f8a2c0b1500 192.168.1.30#33221 (kx93mdla02.top): view internal: query failed (NXDOMAIN) for kx93mdla02.top/IN/A at query.c:6234
+18-Aug-2026 09:00:20.333 queries: info: client @0x7f8a2c0b1600 192.168.1.15#12345 (paypa1.com): query: paypa1.com IN A + (10.0.0.53)
+18-Aug-2026 09:01:03.017 zone: info: zone example.com/IN: loaded serial 2026081801
